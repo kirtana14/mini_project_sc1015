@@ -62,3 +62,20 @@ We realised that in order to analyse teh dataset to its full potential, we would
 Beyond Data science insights, we also:
 1) Explored medical context and connected technical results with health policies.
 2) Added thoughtful feature engineering and new perspectives in the recommendations.
+
+## credits
+Aadya Gupta:
+Machine learning models code
+Data driven insights
+reccomendations
+Script
+
+Kirtana Nair:
+EDA
+Slides
+Script
+Problem definition
+
+
+## References
+References Brain Stroke Dataset. (n.d.). Www.kaggle.com. https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset/data IBM. (2021a, August 16). Logistic Regression. Ibm.com. https://www.ibm.com/think/topics/logistic-regression IBM. (2021b, October 6). Naive Bayes. Ibm.com. https://www.ibm.com/think/topics/naive-bayes IBM. (2021c, October 20). Random Forest. Ibm.com. https://www.ibm.com/think/topics/random-forest Johns Hopkins Medicine. (2024). Stroke. Www.hopkinsmedicine.org. https://www.hopkinsmedicine.org/health/conditions-and-diseases/stroke Moulaei, K., Afshari, L., Moulaei, R., Sabet, B., Mousavi, S. M., & Afrash, M. R. (2024). Explainable artificial intelligence for stroke prediction through comparison of deep learning and machine learning models. Scientific Reports, 14(1). https://doi.org/10.1038/s41598-024-82931-5
