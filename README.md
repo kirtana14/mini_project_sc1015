@@ -1,1 +1,2 @@
-# mini_project_sc1015
+## 10 % 
+
