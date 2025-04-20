@@ -15,12 +15,12 @@ With the help of data science, we aim to transform this raw health data into ins
 
 
 ## Data preparation and cleaning
-1) Handled missing values and null values by dropping irrelevnt variables.
-2) Converted categorical variables (e.g., gender, work type) to numeric formats for modeling through encoding, this allowed us to factor in all vaiables whwen prediciting stroke. 
+1) Handled missing values and null values by dropping irrelevnt variables that did not relate to or have any corealtion to stroke kcases (eg> - marital status and work type).
+2) Converted categorical variables (e.g., gender, heart disease) to numeric formats for modeling through encoding, this allowed us to factor in all vaiables whwen prediciting stroke. 
 3) Ensured data consistency and proper formatting for model inputs.
 
 ## Exploratory data analysis/visualization 
-We understood that single variables as well as a combination fo different varibales can have an effect on possibility of stroke. Hence we performed various analysis to identify trends and variables to focus in on. 
+We understood that single variables as well as a combination of different varibales can have an effect on possibility of stroke. Hence we performed various analysis to identify trends and variables to focus in on. 
 
 1) Performed univariate and bivariate analysis to examine stroke distribution across features.
 2) Used visualizations like histograms and bar plots to highlight patterns (e.g., age, heart disease, glucose levels).
