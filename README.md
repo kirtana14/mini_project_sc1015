@@ -65,15 +65,24 @@ Beyond Data science insights, we also:
 
 ## credits
 Aadya Gupta:
+
 Machine learning models code
+
 Data driven insights
+
 reccomendations
+
 Script
 
+
 Kirtana Nair:
+
 EDA
+
 Slides
+
 Script
+
 Problem definition
 
 
