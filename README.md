@@ -1,4 +1,4 @@
-### SC1015 Mini project 
+# SC1015 Mini project 
 Kirtana Nair - U2431861D
 
 Aadya Gupta - U2431801E
@@ -66,7 +66,7 @@ Beyond Data science insights, we also:
 
 
 ## credits
-# Aadya Gupta:
+### Aadya Gupta:
 
 Machine learning models code
 
@@ -77,7 +77,7 @@ reccomendations
 Script
 
 
-# Kirtana Nair:
+### Kirtana Nair:
 
 EDA
 
