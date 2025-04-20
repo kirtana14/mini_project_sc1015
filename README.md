@@ -32,21 +32,33 @@ Through this EDA we were able to derive insights like:
 
 ## Use of machine learning techniques 
 In order to apply our findings from our EDA, we used several machine learning modles to help us predict the possibility of stroke due to different variables
-Applied and compared multiple models: Logistic Regression, Decision Trees, and more.
-Evaluated models using metrics like accuracy, recall (TPR), FPR, and FNR.
+We used models that allowed for multivareate analysis such as 
+1) logistical regeression
+2) Random forest
+3) Naive Bayes
+
+Evaluated models using metrics like accuracy, TPR, FPR, TNR, FNR
+
 Prioritized models that performed well on recall — due to the importance of detecting true stroke cases.
-Learned new methods like feature importance interpretation and confusion matrix analysis.
+
+Understood the workings of newly learned models such as Random forest and Naive Bayes. 
 
 ## Data-driven insights and the recommendations
-Generated clear, actionable insights based on EDA and model outputs.
-Gave practical recommendations, such as:
-Prioritizing screening for those with heart disease/hypertension.
-Encouraging glucose control and long-term follow-up for former smokers.
-Designing risk calculators that go beyond age thresholds.
-Linked technical findings to real-world healthcare applications.
+After thorough analysis, we utilised our EDA and findings from Machine learning models to derive insights from teh data set and formulate real life recommendations that can be applied to teh healthcare industry 
+
+Through analysis of correlation heatmaps, bar plots etc, we provoded practical recommendations, such as:
+1) Prioritizing screening for those with heart disease/hypertension.
+2) Encouraging glucose control and long-term follow-up for former smokers.
+3) Designing risk calculators that go beyond age thresholds.
+
+Hence were able to linke technical findings to real-world healthcare applications.
 
 
 ## Learning something new and doing something beyond this course
-Explored medical context and connected technical results with health policies.
-Compared multiple models and discussed trade-offs (e.g., recall vs. false positives).
-Added thoughtful feature engineering and new perspectives in the recommendations.
+We realised that in order to analyse teh dataset to its full potential, we would have to go beyond what we ahve learned and explore machine learning models that could provide meaningful insight to our particular data set 
+1) Data cleanup methods such as encoding and class balancing allowed us to use all aspects of our dataset efficiently 
+2) New models such as Naive Bayes and Random forest allowed us to analyse an ensemble fo variables together
+
+Beyond Data science insights, we also:
+1) Explored medical context and connected technical results with health policies.
+2) Added thoughtful feature engineering and new perspectives in the recommendations.
