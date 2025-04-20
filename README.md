@@ -1,6 +1,7 @@
 ### SC1015 Mini project 
 Kirtana Nair - U2431861D
-Aadya Gupta - 
+
+Aadya Gupta - U2431801E
 
 ## Problem definition based on a dataset
 We defined our objective clearly: to predict the likelihood of a stroke based on individual health attributes. This problem is framed within a real-world context — early detection of stroke risk can empower healthcare systems to take preventive measures, reduce emergency admissions, and enhance quality of life.
