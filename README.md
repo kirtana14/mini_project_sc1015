@@ -63,8 +63,10 @@ Beyond Data science insights, we also:
 1) Explored medical context and connected technical results with health policies.
 2) Added thoughtful feature engineering and new perspectives in the recommendations.
 
+
+
 ## credits
-Aadya Gupta:
+# Aadya Gupta:
 
 Machine learning models code
 
@@ -75,7 +77,7 @@ reccomendations
 Script
 
 
-Kirtana Nair:
+# Kirtana Nair:
 
 EDA
 
